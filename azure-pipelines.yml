@@ -1,6 +1,6 @@
 trigger:
 - '*'
-  
+  #hola putos
 variables:
   buildConfiguration: 'Release'
   
