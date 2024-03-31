@@ -1,6 +1,6 @@
 trigger:
 - '*'
- #hola reputazos 
+ #hola reputazos2 
 variables:
   buildConfiguration: 'Release'
   
